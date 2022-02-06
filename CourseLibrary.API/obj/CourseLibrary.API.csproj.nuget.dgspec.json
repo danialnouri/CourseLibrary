@@ -13,15 +13,9 @@
         "packagesPath": "/Users/mac/.nuget/packages/",
         "outputPath": "/Users/mac/RiderProjects/CourseLibrary/CourseLibrary.API/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
-        ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {}
